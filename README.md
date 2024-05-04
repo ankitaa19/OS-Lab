@@ -18,7 +18,8 @@ img.src="<img width="1459" alt="ls" src="https://github.com/ankitaa19/OS-Lab/ass
 
 
 5. cp: Copy a file or directory from one location to another.
-   img.src="<img width="1345" alt="cp" src="https://github.com/ankitaa19/OS-Lab/assets/142775992/b0db38ba-8b4e-4054-b6dd-d5e5a5f264ff">
+   img.src="<img width="958" alt="cp" src="https://github.com/ankitaa19/OS-Lab/assets/142775992/17aea3eb-2785-40be-9947-c1ce21d83438">
+
 
 
 6. rm: Remove a file or directory.
@@ -30,18 +31,26 @@ img.src="<img width="1459" alt="ls" src="https://github.com/ankitaa19/OS-Lab/ass
 
 
 8. more: Display the contents of a file page by page.
-   img.src="
+   img.src="<img width="1469" alt="more" src="https://github.com/ankitaa19/OS-Lab/assets/142775992/ca13f9dc-4fe1-49d6-9246-a151020d752b">
+
 
 9. lpr: Print a file on a connected printer.
+   img.src="<img width="1466" alt="lpr" src="https://github.com/ankitaa19/OS-Lab/assets/142775992/b7d35164-347b-4daa-9f50-a525e20ed48b">
 
 
 10. man: Display the manual pages for a specified command.
+    img.scr="<img width="1470" alt="man" src="https://github.com/ankitaa19/OS-Lab/assets/142775992/758fddde-b7d4-4d09-ba57-0a89238d2085">
 
 
-11. grep: Search for a specified pattern in one or more files.
+ 11. grep: Search for a specified pattern in one or more files.
+     img.src="grep1
+
+ 
+
+ 
 
 
-12. sed: Utilize a stream editor for filtering and transforming text.
+    
 
 
 
