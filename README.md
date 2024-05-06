@@ -43,7 +43,8 @@ img.src="<img width="1459" alt="ls" src="https://github.com/ankitaa19/OS-Lab/ass
 
 
  11. grep: Search for a specified pattern in one or more files.
-     img.src="grep1
+     img.src="<img width="567" alt="grep1" src="https://github.com/ankitaa19/OS-Lab/assets/142775992/942aa0ca-6c78-482f-9496-864737d207b2">
+
 
  
 
